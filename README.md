@@ -2,4 +2,4 @@
 Projecto de iniciación en GitHub
 
 
-Este el projecto de iniciación en GitHub de Eduardo
+Este es el projecto de iniciación en GitHub de Eduardo, dneominado hello-world (clásico)
